@@ -1,0 +1,17 @@
+# Microdados grandes
+dados_originais/
+dados_tratados/
+
+# Arquivos CSV grandes na raiz
+MICRODADOS_ENEM_*.csv
+enem_tratado_*.csv
+
+# Arquivos temporarios do R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Arquivos temporarios
+*.tmp
+*.parcial
+Thumbs.db
