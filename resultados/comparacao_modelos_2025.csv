@@ -1,0 +1,13 @@
+CATEGORIA,MODELO,MAE,RMSE,MELHOR_MODELO
+Exatas e Natureza,Baseline,2.477796,3.550753,TRUE
+Exatas e Natureza,Random Forest,2.737876,3.708811,FALSE
+Exatas e Natureza,XGBoost,5.124276,5.842037,FALSE
+Exatas e Natureza,Regressão Linear,5.626019,6.520995,FALSE
+Humanas e Linguagens,Regressão Linear,1.820393,2.144751,TRUE
+Humanas e Linguagens,Random Forest,3.187672,3.598647,FALSE
+Humanas e Linguagens,Baseline,4.167005,4.303662,FALSE
+Humanas e Linguagens,XGBoost,8.278717,8.955317,FALSE
+Redação,XGBoost,30.098594,32.165473,TRUE
+Redação,Random Forest,39.745308,40.321098,FALSE
+Redação,Baseline,41.677983,42.082584,FALSE
+Redação,Regressão Linear,58.442675,59.065455,FALSE
